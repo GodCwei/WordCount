@@ -1,0 +1,4 @@
+ int year = c.get(1);
+int month = c.get(2);
+int date = c.get(5);
+System.out.println(year+","+month+","+date  );
